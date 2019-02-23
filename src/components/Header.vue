@@ -18,6 +18,7 @@
     background: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     position: fixed;
+    z-index: 1;
     img {
       margin-left: 152px;
       margin-top: 30px;

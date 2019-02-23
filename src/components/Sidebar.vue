@@ -25,5 +25,6 @@
     height: 100%;
     position: fixed;
     background: white;
+    z-index: 2;
   }
 </style>

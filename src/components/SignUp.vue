@@ -152,9 +152,7 @@ export default {
         margin-left: 200px;
         margin-top: 20px;
     }
-    .ml{
 
-    }
  .form-control{
      width: 320px;
  }
